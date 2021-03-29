@@ -1,0 +1,5 @@
+You were robbed when sleeping, Lose 100 gold.
+You retrive a stolen atrifact from a thief and you are awarded reward of 200 gold.
+You were teleported 3 spaces forward to complete an important quest of a Wizard.
+You were summoned back to Guild for an Emergency meeting.
+You were cursed by Lilith, Lose a life.

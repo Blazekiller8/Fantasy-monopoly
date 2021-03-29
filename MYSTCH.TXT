@@ -1,0 +1,5 @@
+You find a gold pouch containing 100 gold, Finders keepers.
+You find a stolen atrifact in it and you are accused of stealing it, pay a fine of 200 gold.
+You found a teleportation scroll, It teleported you 3 spaces behind.
+You found a magical coupon for the traven, Enjoy your night there.
+You got a blessed idol, Gain a life.
